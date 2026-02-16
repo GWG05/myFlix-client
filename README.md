@@ -1,0 +1,1 @@
+I created most of this by using parcel src/index.html in my terminal
